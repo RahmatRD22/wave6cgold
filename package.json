@@ -1,0 +1,23 @@
+{
+  "name": "wave6cgold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmatRD22/wave6cgold.git"
+  },
+  "author": "Rahmat Ramadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmatRD22/wave6cgold/issues"
+  },
+  "homepage": "https://github.com/RahmatRD22/wave6cgold#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
